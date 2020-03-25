@@ -1,1 +1,2 @@
 insertando en test02.txt
+adding new line to test show command in test02.txt
